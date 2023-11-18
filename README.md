@@ -54,7 +54,14 @@
 
 <h2 align="left">My projects</h2>
 <div align="left">
-<a href="https://github.com/svdtharindi/DementiaMobileApp">sample project</a>
+ 
+  ###
+  
+<a href="https://github.com/svdtharindi/DementiaMobileApp">Mobile App for dementia patients</a><br>
+  <a href="https://github.com/svdtharindi/WebGameSmileAPI">Web Game</a><br>
+  <a href="https://github.com/svdtharindi/CoffeeShopweb">Coffee shop website</a><br>
   </div>
+
 ###
+
  
