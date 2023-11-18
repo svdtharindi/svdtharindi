@@ -54,7 +54,7 @@
 
 <h2 align="left">My projects</h2>
 <div align="left">
-<a href="https://www.w3schools.com">sample project</a>
+<a href="https://github.com/svdtharindi/DementiaMobileApp">sample project</a>
   </div>
 ###
  
