@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Dilasha and I'm a Software engineering and computer science graduate from University of Bedfordshire.</p>
+<p align="left">My name is Dilasha and I'm a Software engineering and computer science undergraduate from University of Bedfordshire.</p>
 
 ###
 
